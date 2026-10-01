@@ -1,30 +1,28 @@
-# HTML-E-policy
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HKDSE Candidate Care & Retake Guarantee - Policy Terms</title>
+    <title>HKDSE Exam Protection Plan - Policy Terms</title>
     <style>
         :root {
-            --primary-color: #2f855a; /* Forest Green indicating protection/care */
+            --primary-color: #1a365d; /* Trustworthy Navy Blue */
             --bg-color: #ffffff;
             --text-color: #2d3748;
-            --border-color: #e2e8f0;
+            --border-color: #cbd5e0;
             --header-bg: #f7fafc;
-            --accent-bg: #f0fff4;
-            --shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+            --accent-bg: #ebf8ff;
+            --shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
         }
 
-        /* Dark mode compatibility (Matches GitHub Dark Theme) */
         @media (prefers-color-scheme: dark) {
             :root {
-                --primary-color: #48bb78;
+                --primary-color: #90cdf4;
                 --bg-color: #0d1117;
                 --text-color: #c9d1d9;
                 --border-color: #30363d;
                 --header-bg: #161b22;
-                --accent-bg: #0e2417;
+                --accent-bg: #0f1c2e;
                 --shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.5);
             }
         }
@@ -121,158 +119,159 @@
 
 <div class="policy-container">
 
-    <h1>🛡️ HKDSE Candidate Shield Policy Terms</h1>
+    <h1>📋 HKDSE Exam Protection Plan (B2B2C Master Terms)</h1>
 
     <div class="key-takeaway">
-        <strong>📌 Key Product Philosophy:</strong>
-        This e-policy is established under a frictionless, trust-based underwriting model with zero moral hazard assumptions. Claims are adjudicated via automatic parameters using simplified medical and logistical criteria to guarantee rapid fee recovery for affected Hong Kong candidates.
+        <strong>📌 Strategic Alliance Framework:</strong>
+        This policy is issued to candidates enrolled in partner commercial tutorial centers. To control moral hazard and adverse selection, binding is conditional upon verified academic course enrollment, and payouts depend strictly on verified, third-party parametric triggers.
     </div>
 
-    <h2>1. Policy Schedule & Product Parameters</h2>
+    <h2>1. Policy Schedule & Enrollment Rules</h2>
     <table>
         <thead>
             <tr>
                 <th>Policy Attribute</th>
                 <th>Contract Specification</th>
-                <th>Operational Mechanism</th>
+                <th>Underwriting Control Purpose</th>
             </tr>
         </thead>
         <tbody>
             <tr>
-                <td class="bold-cell">Product Name</td>
-                <td>HKDSE Candidate Care & Retake Guarantee (e-Policy)</td>
-                <td>Instant digital contract issuance via online portal</td>
+                <td class="bold-cell">Premium Option A</td>
+                <td>HKD 100.00 Optional Front-Desk/Online Add-On</td>
+                <td>Voluntary opt-in during tutorial course registration</td>
             </tr>
             <tr>
-                <td class="bold-cell">Gross Premium</td>
-                <td>HKD 100.00 flat fee per candidate</td>
-                <td>Direct digital payment at policy binding</td>
+                <td class="bold-cell">Premium Option B</td>
+                <td>Bundled Package</td>
+                <td>Included in premium "DSE Retake Guarantee" or "Intensive Revision" courses</td>
             </tr>
             <tr>
-                <td class="bold-cell">Maximum Benefit</td>
-                <td>HKD 3,000.00 per candidate per examination series</td>
-                <td>Covers actual retake fees (Average 3-subject cost: HKD 2,200)</td>
+                <td class="bold-cell">Target Maximum Benefit</td>
+                <td>HKD 3,000.00 per candidate per exam series</td>
+                <td>Covers subsequent-year HKEAA retake entries and supplementary tuition</td>
             </tr>
             <tr>
-                <td class="bold-cell">Waiting Period</td>
-                <td>Zero (0) Days</td>
-                <td>Policy is fully active immediately upon payment confirmation</td>
+                <td class="bold-cell">Eligibility Gate</td>
+                <td>Minimum 70% to 80% course attendance at partner tutorial center</td>
+                <td>Verifies active student status to mitigate systemic adverse selection</td>
             </tr>
             <tr>
-                <td class="bold-cell">Eligible Candidates</td>
-                <td>All valid HKDSE candidates</td>
-                <td>Applies to both School and Private Candidates registered in Hong Kong</td>
+                <td class="bold-cell">Underwriting Window</td>
+                <td>Purchased at least 14 days before the first scheduled exam paper</td>
+                <td>Prevents retrospective purchases after learning of delays or illness</td>
             </tr>
         </tbody>
     </table>
 
     <hr style="border: 0; border-top: 1px solid var(--border-color); margin: 30px 0;">
 
-    <h2>2. Covered Perils & Parametric Triggers</h2>
+    <h2>2. Parametric Claim Triggers & Required Evidence</h2>
     <table>
         <thead>
             <tr>
                 <th>Insured Event</th>
-                <th>Broadened Trigger Conditions</th>
-                <th>Standard of Reasonable Loss Evidence</th>
-                <th>Disbursement Action</th>
+                <th>Trigger Condition</th>
+                <th>Strict Evidence Standard (Third-Party)</th>
             </tr>
         </thead>
         <tbody>
             <tr>
-                <td class="bold-cell">🩺 Acute Medical Incapacity</td>
-                <td>Any acute illness, sudden physical discomfort, or injury preventing examination attendance or impairing performance.</td>
-                <td>Any clinical receipt or consultation slip from a licensed GP or telemedicine portal dated on the exam day.</td>
-                <td>Direct reimbursement of subject retake fees up to HKD 3,000.</td>
+                <td class="bold-cell">🚨 Severe Medical Emergency</td>
+                <td>Total absence from an exam paper due to sudden, debilitating illness or injury on the exam date.</td>
+                <td>Official admission certificate or emergency department slip from a public/registered hospital on the day of the exam.</td>
             </tr>
             <tr>
-                <td class="bold-cell">🚇 Transit & Commute Delays</td>
-                <td>Any unexpected transport delay (MTR service suspension, bus delays, road congestion) resulting in late arrival or absence.</td>
-                <td>Self-declaration of commute route matched with public transit delays or ride-hailing receipts.</td>
-                <td>Direct reimbursement of rescheduling or retake fees up to HKD 3,000.</td>
+                <td class="bold-cell">🚇 Major Transit Disruption</td>
+                <td>Unscheduled delays preventing arrival at the examination hall during the 2-hour pre-exam window.</td>
+                <td>Official Transport Department log or MTR service delay certificate confirming disruption >45 mins on the candidate's route.</td>
             </tr>
             <tr>
-                <td class="bold-cell">🦠 Epidemic & Seasonal Flu</td>
-                <td>Contracting influenza or acute respiratory infection during a CHP-monitored seasonal outbreak wave.</td>
-                <td>A photo of a positive Rapid Antigen Test (RAT) or medical clinical note.</td>
-                <td>Immediate payout from the systemic flu-reserve layer.</td>
+                <td class="bold-cell">🚗 Private Vehicle Accident</td>
+                <td>Unavoidable delay due to a traffic collision while commuting to the examination center.</td>
+                <td>An official Police Accident Report dated and timed within the pre-exam morning commute window.</td>
             </tr>
             <tr>
-                <td class="bold-cell">🤍 Compassionate Grounds</td>
-                <td>Sudden domestic emergency, immediate family crisis, or bereavement occurring during the examination period.</td>
-                <td>Signed personal/parental declaration outlining the nature of the emergency.</td>
-                <td>Expedited settlement of exam retake expenses.</td>
+                <td class="bold-cell">🤍 Family Bereavement</td>
+                <td>Absence from an examination due to the death of an immediate family member.</td>
+                <td>Formal death certificate of the immediate family member issued within 48 to 72 hours of the scheduled exam date.</td>
             </tr>
         </tbody>
     </table>
 
     <hr style="border: 0; border-top: 1px solid var(--border-color); margin: 30px 0;">
 
-    <h2>3. General Exclusions</h2>
+    <h2>3. Explicit Policy Exclusions</h2>
     <table>
         <thead>
             <tr>
-                <th>Exclusion Code</th>
+                <th>Code</th>
                 <th>Excluded Event</th>
-                <th>Policy Rationale</th>
+                <th>Exclusion Rationale</th>
             </tr>
         </thead>
         <tbody>
             <tr>
                 <td class="bold-cell">EX-01</td>
-                <td>HKEAA Administrative Cancellation</td>
-                <td>Events cancelled or rescheduled city-wide by the HKEAA where direct fee waivers are provided.</td>
+                <td>Voluntary Non-Attendance</td>
+                <td>Negligence, oversleeping, personal schedule conflicts, or academic unreadiness.</td>
             </tr>
             <tr>
                 <td class="bold-cell">EX-02</td>
-                <td>Academic Disqualification</td>
-                <td>Disqualification due to exam fraud, cheating, or violations of standard HKEAA regulations.</td>
+                <td>Unlogged Commute Delays</td>
+                <td>Standard surface traffic or personal route planning errors lacking official third-party logs.</td>
             </tr>
             <tr>
                 <td class="bold-cell">EX-03</td>
-                <td>Voluntary Non-Participation</td>
-                <td>Voluntarily choosing not to attend the exams due to non-emergency personal changes of plans.</td>
+                <td>Exam Misconduct Disqualification</td>
+                <td>Disqualification, expulsion, or grade penalties ordered by the HKEAA for cheating or rule violations.</td>
             </tr>
         </tbody>
     </table>
 
     <hr style="border: 0; border-top: 1px solid var(--border-color); margin: 30px 0;">
 
-    <h2>4. 1-Click Claims Settlement Workflow</h2>
+    <h2>4. Claim Settlement Process</h2>
     <table>
         <thead>
             <tr>
-                <th>Step</th>
-                <th>User Action</th>
-                <th>Automated Policy Execution</th>
-                <th>SLA Timeframe</th>
+                <th>Phase</th>
+                <th>Responsible Party</th>
+                <th>Required Action</th>
+                <th>Target SLA</th>
             </tr>
         </thead>
         <tbody>
             <tr>
                 <td class="bold-cell text-center">1</td>
-                <td>Log into the Candidate Shield portal and select the affected exam date.</td>
-                <td>System cross-checks candidate against database registry.</td>
-                <td>&lt; 1 Minute</td>
+                <td>Insured / Student</td>
+                <td>Notify the tutorial center's online insurance portal of the absence.</td>
+                <td>Within 48 hours of exam paper</td>
             </tr>
             <tr>
                 <td class="bold-cell text-center">2</td>
-                <td>Upload a photo of the clinical slip, RAT test, or transit delay notice.</td>
-                <td>Automated OCR reads, validates, and approves the document.</td>
-                <td>&lt; 30 Seconds</td>
+                <td>Insured / Student</td>
+                <td>Upload the third-party medical, transit, or death certificate, alongside course attendance records.</td>
+                <td>Within 30 calendar days of exam</td>
             </tr>
             <tr>
                 <td class="bold-cell text-center">3</td>
-                <td>No manual adjusters required. Direct approval triggered.</td>
-                <td>Disbursement sent directly to registered parent/student via FPS.</td>
-                <td>&lt; 4 Hours</td>
+                <td>Underwriting Board</td>
+                <td>Audit submitted documentation against HKEAA public absence data and official public transit logs.</td>
+                <td>Within 10 business days of submission</td>
+            </tr>
+            <tr>
+                <td class="bold-cell text-center">4</td>
+                <td>Disbursements</td>
+                <td>Direct electronic bank transfer or FPS payout to the candidate's registered bank account.</td>
+                <td>Within 5 business days post-approval</td>
             </tr>
         </tbody>
     </table>
 
     <footer>
-        <p>HKDSE Candidate Care & Retake Guarantee is an open e-policy project. Managed under zero-moral-hazard actuarial modeling.</p>
-        <p>&copy; 2026 Underwriting Consortium. Formally structured for GitHub Pages deployment.</p>
+        <p>HKDSE Exam Protection Plan is a B2B2C program distributed exclusively via partner tutorial networks.</p>
+        <p>&copy; 2026 Underwriting Consortium. Tailored for GitHub Pages deployment.</p>
     </footer>
 
 </div>
